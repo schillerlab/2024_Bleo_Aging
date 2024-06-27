@@ -1,0 +1,13 @@
+Airway	Alveolum	MNP	Lymphocytes	Granulocytes	Fibroblasts	Pericytes	SMC	Mesothelium	Capillary_ECs	Vascular_ECs	Lymphatic_ECs
+Airway	28	34	2	0	10	40	24	0	1	33	33	25
+Alveolum	32	42	3	0	12	47	27	0	2	37	38	26
+MNP	31	39	3	0	19	40	28	0	3	36	36	26
+Lymphocytes	10	14	1	0	6	16	10	0	0	14	14	10
+Granulocytes	8	11	2	0	9	13	8	0	1	13	15	9
+Fibroblasts	42	55	5	0	23	70	45	0	7	54	51	36
+Pericytes	28	35	2	0	13	45	26	0	4	35	36	22
+SMC	30	34	4	0	17	45	28	0	3	35	36	24
+Mesothelium	36	44	3	0	14	51	34	0	5	38	39	31
+Capillary_ECs	27	39	4	0	16	44	24	0	2	39	39	27
+Vascular_ECs	23	33	4	0	16	38	22	0	2	36	38	23
+Lymphatic_ECs	37	49	3	0	16	57	38	0	3	49	49	34
